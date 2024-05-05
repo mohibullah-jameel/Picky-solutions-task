@@ -7,11 +7,7 @@ const Error = () => {
       </div>
 
       <div className="w-48 mt-4">
-        <button
-          className="rounded-lg hover:opacity-80 transition w-full bg-white border-orange-500 text-black border-2 py-3"
-          //   onClick={handleClick}
-        >
-          {/* {label}  */}
+        <button className="rounded-lg hover:opacity-80 transition w-full bg-white border-orange-500 text-black border-2 py-3">
           error
         </button>
       </div>
